@@ -1,6 +1,6 @@
-FROM ubuntu:14.04
+FROM ruby 
 
-MAINTAINER Takahiro Suzuki <suttang@gmail.com>
+MAINTAINER lben.lu <lbencs@hotmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
